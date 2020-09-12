@@ -1,2 +1,2 @@
-# flutter_news
-Bài Tập Lớn (Thịnh,Sơn,Linh,Ngát,Đạt)
+# Nghien bao
+Bài Tập Lớn Môn Phát triển ứng dụng di động
